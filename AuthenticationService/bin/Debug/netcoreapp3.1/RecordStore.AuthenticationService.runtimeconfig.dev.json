@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Lidia ATIS\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Lidia ATIS\\.nuget\\packages"
+      "/Users/lidiadishnica/.dotnet/store/|arch|/|tfm|",
+      "/Users/lidiadishnica/.nuget/packages"
     ]
   }
 }
