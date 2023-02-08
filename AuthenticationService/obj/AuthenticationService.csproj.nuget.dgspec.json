@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lidia ATIS\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj": {}
+    "/Users/lidiadishnica/Desktop/authentication/AuthenticationService/AuthenticationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lidia ATIS\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj": {
+    "/Users/lidiadishnica/Desktop/authentication/AuthenticationService/AuthenticationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lidia ATIS\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+        "projectUniqueName": "/Users/lidiadishnica/Desktop/authentication/AuthenticationService/AuthenticationService.csproj",
         "projectName": "RecordStore.AuthenticationService",
-        "projectPath": "C:\\Users\\Lidia ATIS\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
-        "packagesPath": "C:\\Users\\Lidia ATIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lidia ATIS\\source\\repos\\AuthenticationService\\AuthenticationService\\obj\\",
+        "projectPath": "/Users/lidiadishnica/Desktop/authentication/AuthenticationService/AuthenticationService.csproj",
+        "packagesPath": "/Users/lidiadishnica/.nuget/packages/",
+        "outputPath": "/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lidia ATIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lidiadishnica/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/Xy2PtwHXNgqQy7zNBd2j9pB41LneEUFg5XUzSnSHkQ5cDIO32H/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -43,11 +40,11 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[12.0.1, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[12.0.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -140,10 +137,25 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -152,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

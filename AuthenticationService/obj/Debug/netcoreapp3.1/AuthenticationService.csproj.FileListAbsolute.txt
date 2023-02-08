@@ -1,98 +1,202 @@
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.AssemblyInfoInputs.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.AssemblyInfo.cs
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.csproj.CoreCompileInputs.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.RazorTargetAssemblyInfo.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.csproj.CopyComplete
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.genruntimeconfig.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.StaticWebAssets.xml
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.exe
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.deps.json
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.runtimeconfig.json
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.runtimeconfig.dev.json
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\RecordStore.AuthenticationService.pdb
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\AuthenticationService.csprojAssemblyReference.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\staticwebassets\RecordStore.AuthenticationService.StaticWebAssets.Manifest.cache
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\staticwebassets\RecordStore.AuthenticationService.StaticWebAssets.xml
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecordStore.AuthenticationService.styles.css
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\RecordStore.AuthenticationService.dll
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp3.1\RecordStore.AuthenticationService.pdb
-C:\Users\Lidia ATIS\source\repos\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp3.1\appsettings.Docker.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.AssemblyInfoInputs.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.AssemblyInfo.cs
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csproj.CoreCompileInputs.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.AspNetCore.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Settings.Configuration.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Seq.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.RazorTargetAssemblyInfo.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csproj.CopyComplete
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.genruntimeconfig.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.StaticWebAssets.xml
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.exe
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.deps.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.runtimeconfig.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.runtimeconfig.dev.json
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.pdb
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csprojAssemblyReference.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/RecordStore.AuthenticationService.StaticWebAssets.Manifest.cache
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/RecordStore.AuthenticationService.StaticWebAssets.xml
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/scopedcss/bundle/RecordStore.AuthenticationService.styles.css
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.dll
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.pdb
+C:/Users/Lidia ATIS/source/repos/AuthenticationService/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.Docker.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.Docker.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.StaticWebAssets.xml
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.deps.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.runtimeconfig.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.runtimeconfig.dev.json
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/RecordStore.AuthenticationService.pdb
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.AspNetCore.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Settings.Configuration.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.PeriodicBatching.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Seq.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csproj.AssemblyReference.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.AssemblyInfoInputs.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.AssemblyInfo.cs
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csproj.CoreCompileInputs.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cs
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.MvcApplicationPartsAssemblyInfo.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/RecordStore.AuthenticationService.StaticWebAssets.Manifest.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/RecordStore.AuthenticationService.StaticWebAssets.Pack.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.RecordStore.AuthenticationService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.RecordStore.AuthenticationService.props
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.RecordStore.AuthenticationService.props
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.RecordStore.AuthenticationService.props
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/staticwebassets/RecordStore.AuthenticationService.StaticWebAssets.xml
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.RazorTargetAssemblyInfo.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.csproj.CopyComplete
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.dll
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/RecordStore.AuthenticationService.pdb
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/obj/Debug/netcoreapp3.1/AuthenticationService.genruntimeconfig.cache
+/Users/lidiadishnica/Desktop/authentication/AuthenticationService/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll

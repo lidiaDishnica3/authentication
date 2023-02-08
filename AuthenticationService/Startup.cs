@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using AuthenticationService.Automapper;
 using AuthenticationService.Data;
 using AutoMapper;
+using AutoMapper.Internal;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -94,8 +95,11 @@ namespace AuthenticationService
             services.AddSwaggerDocumentation();
 
             //automapper
+            services.AddAutoMapper(cfg => cfg.Internal().MethodMappingEnabled = false, typeof(Mapping).Assembly);
+
             var mappingConfig = new MapperConfiguration(mc =>
             {
+                mc.Internal().MethodMappingEnabled = false;
                 mc.AddProfile(new Mapping());
             });
 

@@ -1,0 +1,17 @@
+02/08/2023 16:05:24 +01:00 Entity Framework Core "3.1.8" initialized '"AuthenticationAppContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+02/08/2023 16:05:39 +01:00 User profile is available. Using '"/Users/lidiadishnica/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+02/08/2023 16:05:39 +01:00 Now listening on: "https://localhost:5001"
+02/08/2023 16:05:39 +01:00 Now listening on: "http://localhost:5000"
+02/08/2023 16:05:39 +01:00 Application started. Press Ctrl+C to shut down.
+02/08/2023 16:05:39 +01:00 Hosting environment: "Development"
+02/08/2023 16:05:39 +01:00 Content root path: "/Users/lidiadishnica/Desktop/authentication/AuthenticationService"
+02/08/2023 16:05:40 +01:00 Request starting HTTP/1.1 GET https://localhost:5001/index.html - -
+02/08/2023 16:05:40 +01:00 HTTP "GET" "/index.html" responded 200 in 47.9501 ms
+02/08/2023 16:05:40 +01:00 Request finished HTTP/1.1 GET https://localhost:5001/index.html - - - 200 - text/html;charset=utf-8 53.7685ms
+02/08/2023 16:05:40 +01:00 Request starting HTTP/1.1 GET https://localhost:5001/swagger-ui-bundle.js - -
+02/08/2023 16:05:40 +01:00 Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+02/08/2023 16:05:40 +01:00 HTTP "GET" "/swagger-ui-bundle.js" responded 200 in 121.5194 ms
+02/08/2023 16:05:40 +01:00 Request finished HTTP/1.1 GET https://localhost:5001/swagger-ui-bundle.js - - - 200 986342 text/javascript 122.0917ms
+02/08/2023 16:05:40 +01:00 Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1.0/swagger.json - -
+02/08/2023 16:05:40 +01:00 HTTP "GET" "/swagger/v1.0/swagger.json" responded 200 in 34.5625 ms
+02/08/2023 16:05:40 +01:00 Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1.0/swagger.json - - - 200 - application/json;charset=utf-8 35.1803ms
